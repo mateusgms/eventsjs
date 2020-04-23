@@ -1,0 +1,38 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "E-commerceJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "test": "jest",
+    "detail-test": "cross-env NODE_ENV=test jest --runInBand --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusgms/e-commerceJS.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "E-commerce"
+  ],
+  "author": "Mateus Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusgms/e-commerceJS/issues"
+  },
+  "homepage": "https://github.com/mateusgms/e-commerceJS#readme",
+  "dependencies": {
+    "celebrate": "^12.0.1",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.2",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "supertest": "^4.0.2",
+    "nodemon": "^2.0.2",
+    "jest": "^25.2.6"
+  }
+}
