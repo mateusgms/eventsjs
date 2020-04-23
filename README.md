@@ -1,2 +1,2 @@
 # E-eventsJS
-E-commerce app for courses and events using Javascript. ::caffee::
+E-commerce app for courses and events using Javascript. ::caffe::
