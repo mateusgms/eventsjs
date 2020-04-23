@@ -1,0 +1,19 @@
+{
+  "name": "eventsjs",
+  "version": "1.0.0",
+  "description": "Simple app to admin some specific marketplace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusgms/e-commerceJS.git"
+  },
+  "author": "Mateus Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusgms/e-commerceJS/issues"
+  },
+  "homepage": "https://github.com/mateusgms/e-commerceJS#readme"
+}
